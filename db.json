@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "product 1sas",
+      "price": "1",
+      "description": "product1"
+    },
+    {
+      "id": 2,
+      "name": "Tạ Minh Chiến44444",
+      "price": "123",
+      "description": "1231"
+    },
+    {
+      "id": 3,
+      "name": "áa",
+      "price": "12312",
+      "description": "12312"
+    }
+  ]
+}
